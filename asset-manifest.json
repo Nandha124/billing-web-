@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/billing-web-%20/static/css/main.958e9ab3.css",
+    "main.js": "/billing-web-%20/static/js/main.96c87390.js",
+    "static/js/488.1f3378fe.chunk.js": "/billing-web-%20/static/js/488.1f3378fe.chunk.js",
+    "static/media/female.png": "/billing-web-%20/static/media/female.c36f2648bdb886e60afe.png",
+    "index.html": "/billing-web-%20/index.html",
+    "main.958e9ab3.css.map": "/billing-web-%20/static/css/main.958e9ab3.css.map",
+    "main.96c87390.js.map": "/billing-web-%20/static/js/main.96c87390.js.map",
+    "488.1f3378fe.chunk.js.map": "/billing-web-%20/static/js/488.1f3378fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958e9ab3.css",
+    "static/js/main.96c87390.js"
+  ]
+}
